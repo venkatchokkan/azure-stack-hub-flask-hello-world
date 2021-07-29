@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'webapps-Pythan'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_4b35908eb7ce448b9bea1ee91dbbb15b }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_d0362ba234564f49b2564673f946038e }}
